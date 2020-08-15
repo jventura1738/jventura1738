@@ -1,9 +1,7 @@
 # Justin Ventura λ University Undergraduate
 
+<h3 align="center"> My Strongest Languages </h3>
 <p align="center">
-  
-  <h3> My Strongest Languages </h3>
-  
   <img src="/Images/PythonLogo.png" alt="Python Logo" width="75" height="75"> <img src="/Images/CPPLogo.png" alt="C++ Logo" width="75" height="75"> <img src="/Images/JavaLogo.png" alt="Java Logo" width="90" height="75">
   
 </p>
