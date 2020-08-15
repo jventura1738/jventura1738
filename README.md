@@ -1,6 +1,6 @@
 # Justin Ventura λ University Undergraduate
 
-✨ Welcome to my GitHub page! ✨
+*✨ Welcome to my GitHub page! ✨*
 
 <h2 align="center"> 💪 My Strongest Languages 💪</h3>
 
@@ -15,7 +15,7 @@
 - Machine Learning Algorithms and Basic Neural Networks.
 - Data Management, Visualization, and Analysis.
 - Adequate Front-End Skills (HTML, CSS, MD, JS).
-- Check Pinned Repos for my best work!
+- **Check Pinned Repos for my best work!**
 
 
 ## Quick fax about me:
