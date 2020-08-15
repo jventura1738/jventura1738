@@ -2,7 +2,9 @@
 
 ### Skills
 
-![Python Logo](/Images/PythonLogo.png | width=25 | height=25) ![C++ Logo](/Images/CPPLogo.png = 25x25) ![Java Logo](/Images/JavaLogo.png = 25x25)
+<img src="/Images/PythonLogo.png" alt="Python Logo" style="width:50px;height:50px;">
+<img src="/Images/CPPLogo.png" alt="C++ Logo" style="width:50px;height:50px;">
+<img src="/Images/JavaLogo.png" alt="Java Logo" style="width:50px;height:50px;">
 
 
 ## Quick fax about me:
