@@ -2,9 +2,9 @@
 
 ### Skills
 
-<img src="/Images/PythonLogo.png" alt="Python Logo" style="width:50px;height:50px;">
-<img src="/Images/CPPLogo.png" alt="C++ Logo" style="width:50px;height:50px;">
-<img src="/Images/JavaLogo.png" alt="Java Logo" style="width:50px;height:50px;">
+<img src="/Images/PythonLogo.png" alt="Python Logo" style="width:5px;height:5px;">
+<img src="/Images/CPPLogo.png" alt="C++ Logo" style="width:5px;height:5px;">
+<img src="/Images/JavaLogo.png" alt="Java Logo" style="width:50px;height:5px;">
 
 
 ## Quick fax about me:
