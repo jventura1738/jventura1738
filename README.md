@@ -8,7 +8,7 @@
   <img src="https://camo.githubusercontent.com/188581baa4eb9016e00bf07260f1fe6f12222b0a/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667" alt="Python Logo" width="80" height="80"> <img src="https://camo.githubusercontent.com/b523c27bbf0caeb3820f3612030b75503cfce9af/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f63706c7573706c75732f63706c7573706c75732d6f726967696e616c2e737667" alt="C++ Logo" width="80" height="80"> <img src="https://camo.githubusercontent.com/2371fc4408ce813db5e1b6e153e3bb4f211702a6/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f6a6176612f6a6176612d6f726967696e616c2d776f72646d61726b2e737667" alt="Java Logo" width="80" height="80">
 </p>
 
-### Skills:
+### 💻 Programming Skills 🛠
 
 - Advanced Data Structures & Algorithm Analysis.
 - Scientific, Mathematical, and Statistical Programming.
@@ -17,7 +17,7 @@
 - Adequate Front-End Skills (HTML, CSS, MD, JS).
 - **Check Pinned Repos for my best work!**
 
-### Mathematical Skills:
+### 🧠 Mathematical Skills ✍🏼
 
 - General Calculus I-III & Numerical Methods.
 - Discrete Mathematics & Logic.
