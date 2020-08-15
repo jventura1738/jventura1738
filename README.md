@@ -1,5 +1,10 @@
 # Justin Ventura λ University Undergraduate
 
+### Skills
+
+![Python Logo](/Images/PythonLogo.png) ![C++ Logo](/Images/CPPLogo.png) ![Java Logo](/Images/JavaLogo.png)
+
+
 ## Quick fax about me:
 
 ### Personal
