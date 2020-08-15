@@ -17,6 +17,12 @@
 - Adequate Front-End Skills (HTML, CSS, MD, JS).
 - **Check Pinned Repos for my best work!**
 
+### Mathematical Skills:
+
+- General Calculus I-III & Numerical Methods.
+- Discrete Mathematics & Logic.
+- Probability, Statistics, Linear Regression, etc.
+- Linear Algebra & Applications.
 
 ## Quick fax about me:
 
