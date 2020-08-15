@@ -2,7 +2,7 @@
 
 ### Skills
 
-![Python Logo](/Images/PythonLogo.png) ![C++ Logo](/Images/CPPLogo.png) ![Java Logo](/Images/JavaLogo.png)
+![Python Logo](/Images/PythonLogo.png = 25x25) ![C++ Logo](/Images/CPPLogo.png = 25x25) ![Java Logo](/Images/JavaLogo.png = 25x25)
 
 
 ## Quick fax about me:
