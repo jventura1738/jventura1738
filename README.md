@@ -15,14 +15,15 @@
 - Machine Learning Algorithms and Basic Neural Networks.
 - Data Management, Visualization, and Analysis.
 - Adequate Front-End Skills (HTML, CSS, MD, JS).
+- Pandas, Numpy, TensorFlow, Scikit & more.
 - **Check Pinned Repos for my best work!**
 
 ### 🧠 Mathematical Skills ✍🏼
 
 - General Calculus I-III & Numerical Methods.
-- Discrete Mathematics & Logic.
+- Discrete Mathematics, Circuitry & Logic.
 - Probability, Statistics, Linear Regression, etc.
-- Linear Algebra & Applications.
+- Linear Algebra & its Applications.
 
 ## Quick fax about me:
 
