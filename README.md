@@ -1,7 +1,7 @@
 # Justin Ventura λ University Undergraduate
 
 <p align="center">
-  <img src="/GIFs/Welcome.gif" alt="Welcome!" width="90" height="75">
+  <img src="/GIFs/Welcome.gif" alt="Welcome!" width="180" height="150">
 </p>
 
 <h2 align="center"> 💪 My Strongest Languages 💪</h3>
