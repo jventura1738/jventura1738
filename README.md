@@ -1,9 +1,11 @@
 # Justin Ventura λ University Undergraduate
 
-### Skills
-
 <p align="center">
-<img src="/Images/PythonLogo.png" alt="Python Logo" width="50" height="50"> <img src="/Images/CPPLogo.png" alt="C++ Logo" width="50" height="50"> <img src="/Images/JavaLogo.png" alt="Java Logo" width="60" height="50">
+  
+  <h3> My Strongest Languages </h3>
+  
+  <img src="/Images/PythonLogo.png" alt="Python Logo" width="75" height="75"> <img src="/Images/CPPLogo.png" alt="C++ Logo" width="75" height="75"> <img src="/Images/JavaLogo.png" alt="Java Logo" width="90" height="75">
+  
 </p>
 
 
