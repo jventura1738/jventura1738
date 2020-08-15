@@ -1,6 +1,6 @@
 # Justin Ventura λ University Undergraduate
 
-Welcome to my GitHub page!
+✨ Welcome to my GitHub page! ✨
 
 <h2 align="center"> 💪 My Strongest Languages 💪</h3>
 
