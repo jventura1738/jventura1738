@@ -1,8 +1,6 @@
 # Justin Ventura λ University Undergraduate
 
-<p align="center">
-  <img src="/GIFs/Welcome.gif" alt="Welcome!" width="360" height="200">
-</p>
+Welcome to my GitHub page!
 
 <h2 align="center"> 💪 My Strongest Languages 💪</h3>
 
