@@ -15,6 +15,7 @@
 - Machine Learning Algorithms and Basic Neural Networks.
 - Data Management, Visualization, and Analysis.
 - Adequate Front-End Skills (HTML, CSS, MD, JS).
+- Check Pinned Repos for my best work!
 
 
 ## Quick fax about me:
