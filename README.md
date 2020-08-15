@@ -1,5 +1,11 @@
 # Justin Ventura λ University Undergraduate
 
+<p>
+  
+</p>
+
+## Skills (why you came here)
+
 <h2 align="center"> 💪 My Strongest Languages 💪</h3>
 
 <p align="center">
