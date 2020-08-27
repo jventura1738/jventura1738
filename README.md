@@ -39,6 +39,6 @@
 
 - 💻 Majors: Computer Science, Mathematics, Data Science.
 - 🧠 GPA: 3.92, Honors, Dean's List.
-- 🤩 Extracurriculars: CS & MATH Club, Music Production, Audio Engineering, Weightlifting.
 - 👨🏻‍💻 Jobs: Supplemental Instruction, Tutoring, Lab Assistant.
+- 🤩 Extracurriculars: CS & MATH Club, Music Production, Audio Engineering, Weightlifting.
 - 🎓 Expected Graduation: May, 2023.
