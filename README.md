@@ -29,7 +29,7 @@
 
 ### Personal
 
-- 🔭 I’m currently working on a web portfolio!
+- 🔭 I’m currently working on a web portfolio, and a bot for 'copping' limited designer clothing drops.
 - 🌱 I’m currently learning data science, machine learning & artificial intelligence.
 - 📫 How to reach me: j.ventura1738@gmail.com or @yovng_zoom on IG.
 - ⚡ Fun fact: I love learning and teaching others what I learn!  Maybe I'll be a professor one day.
