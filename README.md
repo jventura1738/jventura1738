@@ -1,6 +1,6 @@
 # Justin Ventura λ University Undergraduate
 
-<code> *✨ Welcome to my GitHub page! ✨* </code>
+✨ <code> *Welcome to my GitHub page!* </code> ✨
 
 ### Currently enrolled in:
 - MATH311: Differential Equations I
