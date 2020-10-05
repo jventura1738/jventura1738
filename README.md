@@ -45,7 +45,7 @@
 ### School
 
 - 💻 Majors: Computer Science, Mathematics, Data Science.
-- 🧠 GPA: 3.92, Honors, Dean's List.
+- 🧠 GPA: 3.88, Honors, Dean's List.
 - 👨🏻‍💻 Jobs: Supplemental Instruction, Tutoring, Lab Assistant.
 - 🤩 Extracurriculars: CS & MATH Club, Music Production, Audio Engineering, Weightlifting.
 - 👨‍🏫 Mentoring: lower classmen in Mathematics & Computer Science
