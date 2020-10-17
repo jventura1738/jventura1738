@@ -22,7 +22,7 @@
 - Machine Learning Algorithms and Basic Neural Networks.
 - Data Management, Visualization, and Analysis.
 - Adequate Front-End Skills (HTML, CSS, MD, JS).
-- Pandas, Numpy, TensorFlow, Scikit, Pygame & more.
+- Pandas, Numpy, TensorFlow, Scikit & more.
 - **Check Pinned Repos for my best work!**
 
 ### 🧠 Mathematical Skills ✍🏼
