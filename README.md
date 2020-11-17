@@ -27,7 +27,7 @@
 
 ### 🧠 Mathematical Skills ✍🏼
 
-- General Calculus I-III & Numerical Methods.
+- General Calculus I-III, Differential Equations, Numerical Methods.
 - Discrete Mathematics, Circuitry & Logic.
 - Probability, Statistics, Linear Regression, etc.
 - Linear Algebra & its Applications.
