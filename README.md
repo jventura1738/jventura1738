@@ -29,7 +29,7 @@
 - Basic Neural Networks.
 - Pandas, Numpy, TensorFlow, Scikit & more.
 
-*Check Pinned Repos for my best work!*
+***Check Pinned Repos for my best work!***
 
 ### 🧠 Mathematical Skills ✍🏼
 
