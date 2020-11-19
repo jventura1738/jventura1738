@@ -20,6 +20,7 @@
 **Software Engineering**
 - Advanced Data Structures & Algorithm Analysis.
 - Scientific, Mathematical, and Statistical Programming.
+- Parallel Programming (C MPI & MPI4PY).
 - Adequate Front-End Skills (HTML, CSS, MD, JS).
 
 **Machine Learning & Artificial Intelligence**
