@@ -17,13 +17,18 @@
 
 ### 💻 Programming Skills 🛠
 
+**Software Engineering**
 - Advanced Data Structures & Algorithm Analysis.
 - Scientific, Mathematical, and Statistical Programming.
-- Machine Learning Algorithms and Basic Neural Networks.
-- Data Management, Visualization, and Analysis.
 - Adequate Front-End Skills (HTML, CSS, MD, JS).
+
+**Machine Learning & Artificial Intelligence**
+- Clustering and Classification Algorithms (kNN, NB, etc.).
+- Data Management, Visualization, and Analysis.
+- Basic Neural Networks.
 - Pandas, Numpy, TensorFlow, Scikit & more.
-- **Check Pinned Repos for my best work!**
+
+*Check Pinned Repos for my best work!*
 
 ### 🧠 Mathematical Skills ✍🏼
 
