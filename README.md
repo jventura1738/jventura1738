@@ -18,22 +18,23 @@
 ### 💻 Programming Skills 🛠
 
 **Software Engineering**
-- Advanced Data Structures & Algorithm Analysis.
 - Scientific, Mathematical, and Statistical Programming.
-- Parallel Programming (C MPI & MPI4PY).
+- Advanced Data Structures & Algorithm Analysis.
+- Parallel Programming (MPI C & MPI4PY).
 - Adequate Front-End Skills (HTML, CSS, MD, JS).
 
 **Machine Learning & Artificial Intelligence**
-- Clustering and Classification Algorithms (kNN, NB, etc.).
-- Data Management, Visualization, and Analysis.
+- Clustering and Classification Algorithms. (kNN, NB, etc.)
+- Gradient Descent for Linear Regression.
 - Basic Neural Networks.
+- Data Management, Visualization, and Analysis.
 - Pandas, Numpy, TensorFlow, Scikit & more.
 
 ***Check Pinned Repos for my best work!***
 
 ### 🧠 Mathematical Skills ✍🏼
 
-- General Calculus I-III, Differential Equations, Numerical Methods.
+- General Calculus I-III, Differential Equations I, Numerical Methods.
 - Discrete Mathematics, Circuitry & Logic.
 - Probability, Statistics, Linear Regression, etc.
 - Linear Algebra & its Applications.
