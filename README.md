@@ -56,4 +56,5 @@
 - 👨🏻‍💻 Jobs: Supplemental Instruction, Tutoring, Lab Assistant.
 - 🤩 Extracurriculars: CS & MATH Club, Music Production, Audio Engineering, Weightlifting.
 - 👨‍🏫 Mentoring: lower classmen in Mathematics & Computer Science.
-- 🎓 Expected Graduation: May, 2023. 
+- 🎓 Expected Graduation: May, 2023.
+- 🎩 PSF and ACM member.
