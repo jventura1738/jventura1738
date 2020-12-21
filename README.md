@@ -2,12 +2,14 @@
 
 ✨ <code> *Welcome to my GitHub page!* </code> ✨
 
+(Working on YouTube and Music for winter break)
+
 ### Currently enrolled in:
-- MATH311: Differential Equations I
-- MATH471: Numerical Methods
-- COSC311: Intro Data Science
-- COSC420: High-Performance Computing
-- COSC490: Artificial Intelligence
+- MATH472: Numerical Linear Algebra.
+- MATH495: Mathematical Modeling.
+- COSC350: Systems Software.
+- COSC362: Theory of Computation.
+
 
 <h2 align="center"> 💪 My Strongest Languages 💪</h2>
 
