@@ -25,12 +25,12 @@
 - Scientific, Mathematical, and Statistical Programming.
 - Advanced Data Structures & Algorithm Analysis.
 - Parallel Programming (MPI C & MPI4PY).
+- Basic Database Management (SQL, MongoDB)
 - Adequate Front-End Skills (HTML, CSS, MD, JS).
 
 **Machine Learning & Artificial Intelligence**
 - Clustering and Classification Algorithms. (kNN, NB, etc.)
-- Gradient Descent for Linear Regression.
-- Basic Neural Networks.
+- Gradient Descent, Regression, Basic Neural Networks.
 - Data Management, Visualization, and Analysis.
 - Pandas, Numpy, TensorFlow, Scikit & more.
 
