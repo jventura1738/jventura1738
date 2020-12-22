@@ -2,7 +2,7 @@
 
 ✨ <code> *Welcome to my GitHub page!* </code> ✨
 
-(Working on YouTube and Music for winter break)
+(Working on YouTube, Research, and Music for winter break)
 
 ### Currently enrolled in:
 - MATH472: Numerical Linear Algebra.
