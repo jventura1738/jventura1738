@@ -48,15 +48,15 @@
 ### Personal
 
 - 🔭 I’m currently working on a bot for 'copping' limited designer clothing drops. (with @jacobduncan00, he's the web dev master)
-- 🌱 I’m currently learning data science, machine learning & artificial intelligence.
-- 📫 How to reach me: j.ventura1738@gmail.com or @yovng_zoom on IG.
+- 🌱 I’m currently learning about Matching Markets and a few other data-oriented problems.
+- 📫 How to reach me: j.ventura1738@gmail.com (academics) or @yovng_zoom (music) on IG.
 - ⚡ Fun fact: I love learning and teaching others what I learn!  Maybe I'll be a professor one day.
-- 💡 Extra fun fact: The λ on my profile is simply an allusion to the somewhat-joke "Lambda Group" created in my Discrete Mathematics class with @jacobduncan00 and @Blaine-Mason.  If you remember anything about the pain of writing characteristic polynomials you'll understand...
+- 💡 Extra fun fact: The λ on my profile is simply an allusion to the somewhat-joke "Lambda Group" created in my Discrete Mathematics class with @jacobduncan00 and @Blaine-Mason.  [Project Lambda coming in the near future]
 
 ### School
 
 - 💻 Majors: Computer Science, Mathematics, Data Science.
-- 🧠 GPA: 3.88, Honors, Dean's List.
+- 🧠 GPA: 3.89, Honors, Dean's List.
 - 👨🏻‍💻 Jobs: Supplemental Instruction, Tutoring, Lab Assistant.
 - 🤩 Extracurriculars: CS & MATH Club, Music Production/Engineering, Weightlifting.
 - 👨‍🏫 Mentoring: lower classmen in Mathematics & Computer Science.
