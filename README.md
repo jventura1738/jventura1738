@@ -12,7 +12,7 @@
 
 ### 💻 Programming Skills 🛠
 
-[Best]<code> Python, C++, C, Java, JavaScript, HTML, CSS</code> [OK]
+[Best] <code>Python, C++, C, Java, JavaScript, HTML, CSS</code> [OK]
 
 **Software Engineering**
 - Scientific, Mathematical, and Statistical Programming.
