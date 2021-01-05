@@ -10,21 +10,18 @@
 - COSC350: Systems Software.
 - COSC362: Theory of Computation.
 
-
-<h2 align="center"> 💪 My Strongest Languages 💪</h2>
-
-![C Logo](https://github.com/jventura1738/jventura1738/tree/master/Images/CLogo.png?raw=true)
-
 <h4 align="center"> Specialty: Python </h4>
 
 ### 💻 Programming Skills 🛠
+
+**Languages (Left = Best)**
+<code>Python, C++, C, Java, JavaScript, HTML, CSS</code>
 
 **Software Engineering**
 - Scientific, Mathematical, and Statistical Programming.
 - Advanced Data Structures & Algorithm Analysis.
 - Parallel Programming (MPI C & MPI4PY).
-- Basic Database Management (SQL, MongoDB)
-- Adequate Front-End Skills (HTML, CSS, MD, JS).
+- Basic Database Management (SQL, MongoDB).
 
 **Machine Learning & Artificial Intelligence**
 - Clustering and Classification Algorithms. (kNN, NB, etc.)
@@ -54,7 +51,7 @@
 ### School
 
 - 💻 Majors: Computer Science, Mathematics, Data Science.
-- 🧠 GPA: 3.89, Honors, Dean's List.
+- 🧠 GPA: 3.897, Honors, Dean's List.
 - 👨🏻‍💻 Jobs: Supplemental Instruction, Tutoring, Lab Assistant.
 - 🤩 Extracurriculars: CS & MATH Club, Music Production/Engineering, Weightlifting.
 - 👨‍🏫 Mentoring: lower classmen in Mathematics & Computer Science.
