@@ -13,6 +13,7 @@
 
 <h2 align="center"> 💪 My Strongest Languages 💪</h2>
 
+![C Logo](https://github.com/jventura1738/jventura1738/images/master/CLogo.png?raw=true)
 
 <h4 align="center"> Specialty: Python </h4>
 
