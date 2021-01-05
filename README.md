@@ -10,12 +10,9 @@
 - COSC350: Systems Software.
 - COSC362: Theory of Computation.
 
-<h4 align="center"> Specialty: Python </h4>
-
 ### 💻 Programming Skills 🛠
 
-**Languages (Left = Best)**
-<code>Python, C++, C, Java, JavaScript, HTML, CSS</code>
+[Best]<code> Python, C++, C, Java, JavaScript, HTML, CSS</code> [OK]
 
 **Software Engineering**
 - Scientific, Mathematical, and Statistical Programming.
