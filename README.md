@@ -2,12 +2,6 @@
 
 ✨ <code> *Welcome to my GitHub page!* </code> ✨
 
-### Currently enrolled in:
-- MATH472: Numerical Linear Algebra.
-- MATH495: Mathematical Modeling.
-- COSC350: Systems Software.
-- COSC362: Theory of Computation.
-
 ### 💻 Programming Skills 🛠
 
 [Best] <code>Python, C++, C, Java, JavaScript, HTML, CSS</code> [OK]
@@ -32,16 +26,6 @@
 - Discrete Mathematics, Circuitry & Logic.
 - Probability, Statistics, Linear Regression, etc.
 - Linear Algebra & its Applications.
-
-## Quick fax about me:
-
-### Personal
-
-- 🔭 I’m currently working on a bot for 'copping' limited designer clothing drops. (with @jacobduncan00, he's the web dev master)
-- 🌱 I’m currently learning about Matching Theory (Markets) and my WebPortfolio.
-- 📫 How to reach me: j.ventura1738@gmail.com (academics) or @yovng_zoom (music) on IG.
-- ⚡ Fun fact: I love learning and teaching others what I learn!  Maybe I'll be a professor one day.
-- 💡 Extra fun fact: The λ on my profile is simply an allusion to the somewhat-joke "Lambda Group" created in my Discrete Mathematics class with @jacobduncan00 and @Blaine-Mason.  [Project Lambda coming in the near future]
 
 ### School
 
