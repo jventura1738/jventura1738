@@ -2,6 +2,8 @@
 
 ✨ <code> *Welcome to my GitHub page!* </code> ✨
 
+<h1>NOTE: Summer 2021: Undergraduate Research with Carnegie Mellon University (Machine Learning in Production).</h1>
+
 ### 💻 Programming Skills 🛠
 
 [Best] <code>Python, C++, C, Java, JavaScript, HTML, CSS</code> [OK]
