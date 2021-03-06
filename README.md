@@ -32,7 +32,7 @@
 ### School
 
 - 💻 Majors: Computer Science, Mathematics, Data Science.
-- 🧠 GPA: 3.897, Honors (CS: UPE, MATH: PME), Dean's List.
+- 🧠 GPA: 3.897, Honors (CS: UPE, MATH: PME), Dean's List, Henson Student Leadership Advisory Counsel.
 - 👨🏻‍💻 Jobs: Supplemental Instruction, Tutoring, Lab Assistant.
 - 🤩 Extracurriculars: CS & MATH Club, Music Production/Engineering, Weightlifting.
 - 👨‍🏫 Mentoring: lower classmen in Mathematics & Computer Science.
