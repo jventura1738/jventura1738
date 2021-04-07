@@ -1,4 +1,4 @@
-# Justin Ventura λ University Undergraduate
+# Justin Ventura (He/Him) λ University Undergraduate
 
 ✨ <code> *Welcome to my GitHub page!* </code> ✨
 
