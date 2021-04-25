@@ -1,4 +1,4 @@
-# Justin Ventura (He/Him) λ
+# Justin Ventura (He/Him) λ University Undergraduate
 
 ✨ <code> Welcome to my GitHub page!
 *[GullCode 2021 Team & Individual Winner]*
