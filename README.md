@@ -1,6 +1,8 @@
-# Justin Ventura (He/Him) λ (GullCode 2021 Team & Individual Winner)
+# Justin Ventura (He/Him) λ
 
-✨ <code> *Welcome to my GitHub page!* </code> ✨
+✨ <code> Welcome to my GitHub page!
+*[GullCode 2021 Team & Individual Winner]*
+</code> ✨
 
 <h1>NOTE: Summer 2021 -> Undergraduate Research with Carnegie Mellon University (Machine Learning in Production).</h1>
 
