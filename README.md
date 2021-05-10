@@ -4,7 +4,10 @@
 *[GullCode 2021 Team & Individual Winner]*
 </code> ✨
 
-<h1>NOTE: Summer 2021 -> Undergraduate Research with Carnegie Mellon University (Machine Learning in Production).</h1>
+### Currently Working On:
+- Carnegie Mellon University Research (Machine Learning in Production).
+- Bot with @jacobduncan00.
+- Starting YouTube Series back up.
 
 ### 💻 Programming Skills 🛠
 
