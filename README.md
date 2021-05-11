@@ -6,7 +6,7 @@
 
 ### Currently Working On:
 - Carnegie Mellon University Research (Machine Learning in Production).
-- Bot with @jacobduncan00.
+- Golang Bot with @jacobduncan00.
 - Starting YouTube Series back up.
 
 ### 💻 Programming Skills 🛠
