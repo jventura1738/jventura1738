@@ -11,7 +11,7 @@
 
 ### 💻 Programming Skills 🛠
 
-[Active Languages] <code>Python, C++, C, Java</code>
+[Active Languages] <code>Python, C++, C, Java, Go</code>
 
 **Software Engineering**
 - Scientific, Mathematical, and Statistical Programming.
