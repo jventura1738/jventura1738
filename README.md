@@ -4,7 +4,7 @@
 *[GullCode 2021 Team & Individual Winner]*
 </code> ✨
 
-[https://jventura1738.github.io/]
+Click for web portfolio: https://jventura1738.github.io/
 
 ### Currently Working On:
 - Carnegie Mellon University Research (Machine Learning in Production).
