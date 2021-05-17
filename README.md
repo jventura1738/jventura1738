@@ -4,6 +4,8 @@
 *[GullCode 2021 Team & Individual Winner]*
 </code> ✨
 
+[https://jventura1738.github.io/]
+
 ### Currently Working On:
 - Carnegie Mellon University Research (Machine Learning in Production).
 - Golang Bot with @jacobduncan00.
