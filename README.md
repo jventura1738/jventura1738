@@ -7,7 +7,7 @@
 Click for web portfolio: https://jventura1738.github.io/
 
 ### Currently Working On:
-- Carnegie Mellon University Research (Machine Learning in Production).
+- **Carnegie Mellon University Research (Machine Learning in Production).**
 - Golang Bot with @jacobduncan00.
 - Starting YouTube Series back up.
 
