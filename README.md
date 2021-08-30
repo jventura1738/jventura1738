@@ -8,7 +8,7 @@ Click for web portfolio: https://jventura1738.github.io/
 
 ### Currently Working On:
 - **Carnegie Mellon University Research (Machine Learning in Production).**
-- Golang Bot with @jacobduncan00.
+- Hosting COSC/MATH/DSCI Seminar.
 - Starting YouTube Series back up.
 
 ### 💻 Programming Skills 🛠
