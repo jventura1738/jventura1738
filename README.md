@@ -9,6 +9,7 @@ Click for web portfolio: https://jventura1738.github.io/
 ### Currently Working On:
 - **Carnegie Mellon University Research (Machine Learning in Production).**
 - Hosting COSC/MATH/DSCI Seminar.
+- Preparing for HackMIT 2021.
 - Starting YouTube Series back up.
 
 ### 💻 Programming Skills 🛠
