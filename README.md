@@ -1,4 +1,4 @@
-# Justin Ventura (He/Him) λ University Undergraduate (Phi Kappa Phi)
+# Justin Ventura (He/Him) λ University Undergraduate
 
 ✨ <code> Welcome to my GitHub page!
 *[GullCode 2021 Team & Individual Winner]*
@@ -45,4 +45,4 @@ Click for web portfolio: https://jventura1738.github.io/
 - 🤩 Extracurriculars: CS & MATH Club, Music Production/Engineering, Weightlifting.
 - 👨‍🏫 Mentoring: lower classmen in Mathematics & Computer Science.
 - 🎓 Expected Graduation: May, 2023.
-- 🎩 PSF, ACM, MAA member.
+- 🎩 PSF, ACM, MAA member.  Phi Kappa Phi, Phi Eta Sigma.
