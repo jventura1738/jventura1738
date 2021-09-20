@@ -5,14 +5,14 @@
 
 Click for web portfolio: https://jventura1738.github.io/
 
+### 💻 Programming Skills 🛠
+
+[Active Languages] <code>Python, C++, C, Java</code>
+
 ### Currently Working On:
 - Internship Portal Web Application (Back-End)
 - Hosting COSC/MATH/DSCI Seminar.
 - Starting YouTube Series back up.
-
-### 💻 Programming Skills 🛠
-
-[Active Languages] <code>Python, C++, C, Java</code>
 
 ### Past Experience:
 - **Carnegie Mellon University Research (Machine Learning in Production).**
