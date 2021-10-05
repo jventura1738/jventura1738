@@ -10,11 +10,11 @@ Click for web portfolio and schedule: https://jventura1738.github.io/
 [Active Languages] <code>Python, C++, C, Java</code>
 
 ### Currently Working On:
-- Internship Portal Web Application (Back-End)
+- Internship Portal Web Application (Server-side)
 - Hosting COSC/MATH/DSCI Seminar.
 - Starting YouTube Series back up.
 
-### Past Experience:
+### Experience:
 - **Carnegie Mellon University Research (Machine Learning in Production).**
 - HackMIT 2021 24 Hour Hackathon at MIT.
 - GullCode 2021 Winning Team & Individual Winner.
