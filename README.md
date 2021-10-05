@@ -10,7 +10,7 @@ Click for web portfolio and schedule: https://jventura1738.github.io/
 [Active Languages] <code>Python, C++, C, Java</code>
 
 ### Currently Working On:
-- Internship Portal Web Application (Server-side)
+- Internship Portal Web Application. (Server-side)
 - Hosting COSC/MATH/DSCI Seminar.
 - Starting YouTube Series back up.
 
