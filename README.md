@@ -12,7 +12,7 @@ Click for web portfolio and schedule: https://jventura1738.github.io/
 ### Currently Working On:
 - Internship Portal Web Application. (Server-side)
 - Hosting COSC/MATH/DSCI Seminar.
-- Starting YouTube Series back up.
+- Starting YouTube Series back up. (in Winter)
 
 ### Experience:
 - **Carnegie Mellon University Research (Machine Learning in Production).**
