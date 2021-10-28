@@ -26,7 +26,7 @@ Click for web portfolio and schedule: https://jventura1738.github.io/
 - 💻 Majors: Computer Science, Mathematics, Data Science.
 - 🧠 GPA: 3.912, Honors, Dean's List, Henson Student Leadership Advisory Council.
 - 👨🏻‍💻 Jobs: Supplemental Instruction, Tutoring, Lab Assistant.
-- 🤩 Extracurriculars: CS & MATH Club, Music Production/Engineering, Weightlifting.
+- 🤩 Extracurriculars: CS & MATH Club, Music Production, Weightlifting.
 - 👨‍🏫 Mentoring: lower classmen in Mathematics & Computer Science.
 - 🎓 Expected Graduation: May, 2023.
 - 🎩 PSF, ACM, MAA member.  Phi Kappa Phi, Phi Eta Sigma.
