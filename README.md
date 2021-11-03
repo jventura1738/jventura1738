@@ -7,7 +7,7 @@ Click for web portfolio and schedule: https://jventura1738.github.io/
 
 ### 💻 Programming Skills 🛠
 
-[Active Languages] <code>Python, C++, C, Java</code>
+[Preferred Languages] <code>Python, C++</code>
 
 ### Currently Working On:
 - Internship Portal Web Application. (Server-side)
