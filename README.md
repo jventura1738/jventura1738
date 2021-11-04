@@ -1,4 +1,4 @@
-# Justin Ventura (He/Him) λ University Undergraduate
+# Justin Ventura (He/Him) Incoming SDE Intern @ Amazon
 
 ✨ <code> Welcome to my GitHub page!
 </code> ✨
