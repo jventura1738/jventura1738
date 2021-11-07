@@ -10,9 +10,9 @@ Click for web portfolio and schedule: https://jventura1738.github.io/
 [Preferred Languages] <code>Python, C++</code>
 
 ### Currently Working On:
-- Internship Portal Web Application. (Server-side)
+- Internship Portal Web Application.
 - Hosting COSC/MATH/DSCI Seminar.
-- Starting YouTube Series back up. (in Winter)
+- Starting YouTube Series back up.
 
 ### Experience:
 - **Carnegie Mellon University Research (Machine Learning in Production).**
