@@ -8,6 +8,7 @@ Click for web portfolio and schedule: https://jventura1738.github.io/
 ### 💻 Programming Skills 🛠
 
 [Preferred Languages] <code>Python, C++</code>
+
 [Tools] <code>flask, postgreSQL, numpy, sk learn & more</code>
 
 ### Currently Working On:
