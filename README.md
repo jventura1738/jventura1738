@@ -22,7 +22,7 @@ Click for web portfolio and schedule: https://jventura1738.github.io/
 - 🧠 GPA: 3.912, Honors, Dean's List, Henson Student Leadership Advisory Council.
 - 👨🏻‍💻 Jobs: Supplemental Instruction, Tutoring, Lab Assistant.
 - 🎓 Expected Graduation: May, 2023.
-- - 🤩 Extracurriculars: CS & MATH Club, Music Production, Weightlifting.
+- 🤩 Extracurriculars: CS & MATH Club, Music Production, Weightlifting.
 - 🎩 PSF, ACM, MAA member.  Phi Kappa Phi, Phi Eta Sigma, Upsilon Pi Epsilon, Pi Mu Epsilon.
 
 ***Check Pinned Repos for my best work!***
