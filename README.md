@@ -16,8 +16,6 @@ Click for web portfolio and schedule: https://jventura1738.github.io/
 - HackMIT 2021 24 Hour Hackathon at MIT.
 - GullCode 2021 Winning Team & Individual Winner.
 
-***Check Pinned Repos for my best work!***
-
 ### School
 
 - 💻 Majors: Computer Science, Computational Mathematics, Data Science.
@@ -27,3 +25,5 @@ Click for web portfolio and schedule: https://jventura1738.github.io/
 - 👨‍🏫 Mentoring: lower classmen in Mathematics & Computer Science.
 - 🎓 Expected Graduation: May, 2023.
 - 🎩 PSF, ACM, MAA member.  Phi Kappa Phi, Phi Eta Sigma.
+
+***Check Pinned Repos for my best work!***
