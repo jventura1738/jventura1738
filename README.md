@@ -1,7 +1,6 @@
 # Justin Ventura (He/Him) Incoming SDE Intern @ Amazon
 
-✨ <code> Welcome to my GitHub page!
-</code> ✨
+✨ <code> Welcome to my GitHub page!</code> ✨
 
 Click for web portfolio and schedule: https://jventura1738.github.io/
 
