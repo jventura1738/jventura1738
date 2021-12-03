@@ -1,4 +1,4 @@
-# Justin Ventura (He/Him) Incoming SDE Intern @ Amazon
+# Justin Ventura (He/Him) SDE Intern @ Amazon
 
 ✨ <code> Welcome to my GitHub page!</code> ✨
 
