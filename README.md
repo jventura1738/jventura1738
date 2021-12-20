@@ -19,7 +19,7 @@ Click for web portfolio and schedule: https://jventura1738.github.io/
 ### School
 
 - 💻 Majors: Computer Science, Computational Mathematics, Data Science.
-- 🧠 GPA: 3.912, Honors, Dean's List, Henson Student Leadership Advisory Council.
+- 🧠 GPA: 3.918, Honors, Dean's List, Henson Student Leadership Advisory Council.
 - 👨🏻‍💻 Jobs: Supplemental Instruction, Tutoring, Lab Assistant.
 - 🎓 Expected Graduation: May, 2023.
 - 🤩 Extracurriculars: CS & MATH Club, Music Production, Weightlifting.
