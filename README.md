@@ -11,7 +11,7 @@ Click for web portfolio and schedule: https://jventura1738.github.io/
 [Tools] <code>flask, postgreSQL, numpy, sk learn & more</code>
 
 ### Experience:
-- Recovering from being sick :'(
+- I survived being sick loooool pog
 - **Carnegie Mellon University Research (Machine Learning in Production).**
 - HackMIT 2021 24 Hour Hackathon at MIT.
 - GullCode 2021 Winning Team & Individual Winner.
