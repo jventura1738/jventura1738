@@ -2,6 +2,8 @@
 
 ✨ <code> Welcome to my GitHub page!</code> ✨
 
+## I survived being sick loooool pog
+
 Click for web portfolio and schedule: https://jventura1738.github.io/
 
 ### 💻 Programming Skills 🛠
@@ -11,8 +13,8 @@ Click for web portfolio and schedule: https://jventura1738.github.io/
 [Tools] <code>flask, postgreSQL, numpy, sk learn & more</code>
 
 ### Experience:
-- I survived being sick loooool pog
-- **Carnegie Mellon University Research (Machine Learning in Production).**
+- **Amazon SDE Intern Summer 2022.**
+- **Carnegie Mellon University Research Intern (Machine Learning in Production).**
 - HackMIT 2021 24 Hour Hackathon at MIT.
 - GullCode 2021 Winning Team & Individual Winner.
 
