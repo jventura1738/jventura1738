@@ -4,7 +4,7 @@
 
 ## I survived being sick loooool pog
 
-Click for web office: https://vercel.com/jventura1738/jventura1738-weboffice
+Click for web office: https://jventura1738-weboffice.vercel.app/
 
 ### 💻 Programming Skills 🛠
 
