@@ -23,7 +23,7 @@ Click for web office: https://jventura1738-weboffice.vercel.app/
 - 💻 Majors: Computer Science, Computational Mathematics, Data Science.
 - 🧠 GPA: 3.918, Honors, Dean's List, Henson Student Leadership Advisory Council.
 - 👨🏻‍💻 Jobs: Supplemental Instruction, Tutoring, Lab Assistant.
-- 🎓 Expected Graduation: May, 2023.
+- 🎓 Expected Graduation: Fall, 2022.
 - 🤩 Extracurriculars: CS & MATH Club, Music Production, Weightlifting.
 - 🎩 PSF, ACM, MAA member.  Phi Kappa Phi, Phi Eta Sigma, Upsilon Pi Epsilon, Pi Mu Epsilon.
 
