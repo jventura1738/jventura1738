@@ -10,6 +10,7 @@ Click for web office: https://jventura1738-weboffice.vercel.app/
 - **Amazon SDE Intern Summer 2022.**
 - **Carnegie Mellon University Research Intern (Machine Learning in Production).**
 - HackMIT 2021 24 Hour Hackathon at MIT.
+- Internship Portal Web App.
 - GullCode 2021 Winning Team & Individual Winner.
 
 ### School
