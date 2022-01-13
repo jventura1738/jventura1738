@@ -6,12 +6,6 @@
 
 Click for web office: https://jventura1738-weboffice.vercel.app/
 
-### 💻 Programming Skills 🛠
-
-[Preferred Languages] <code>Python, C++, JavaScript</code>
-
-[Tools] <code>flask, postgreSQL, numpy, sk learn & more</code>
-
 ### Experience:
 - **Amazon SDE Intern Summer 2022.**
 - **Carnegie Mellon University Research Intern (Machine Learning in Production).**
