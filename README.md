@@ -2,8 +2,6 @@
 
 ✨ <code> Welcome to my GitHub page!</code> ✨
 
-## I survived being sick loooool pog
-
 Click for web office: https://jventura1738-weboffice.vercel.app/
 
 ### Experience:
