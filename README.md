@@ -4,6 +4,8 @@
 
 Click for web office: https://jventura1738-weboffice.vercel.app/
 
+CMD Seminar Spring 2022 link: https://sucmd.vercel.app/
+
 ### Experience:
 - **Amazon SDE Intern Summer 2022.**
 - **Carnegie Mellon University Researcher (Machine Learning in Production).**
