@@ -1,7 +1,5 @@
 # Justin Ventura (He/Him) SDE Intern @ Amazon
 
-✨ <code> Welcome to my GitHub page!</code> ✨
-
 Click for web office: https://jventura1738-weboffice.vercel.app/
 
 CMD Seminar Spring 2022 link: https://sucmd.vercel.app/
