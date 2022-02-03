@@ -7,6 +7,7 @@ CMD Seminar Spring 2022 link: https://sucmd.vercel.app/
 ### Experience:
 - **Amazon SDE Intern Summer 2022.**
 - **Carnegie Mellon University Researcher (Machine Learning in Production).**
+- **Founder of the CMD Seminar (Computer Science, Mathematics, Data Science).
 - HackMIT 2021 24 Hour Hackathon at MIT.
 - Internship Portal Web Application.
 - GullCode 2021 (Coding Competition) Winning Team & Individual Winner.
@@ -17,7 +18,7 @@ CMD Seminar Spring 2022 link: https://sucmd.vercel.app/
 - 🧠 GPA: 3.918, Honors, Dean's List, Henson Student Leadership Advisory Council.
 - 👨🏻‍💻 Jobs: Supplemental Instruction, Tutoring, Lab Assistant.
 - 🎓 Expected Graduation: Fall, 2022.
-- 🤩 Extracurriculars: CS & MATH Club, Music Production, Weightlifting.
+- 🤩 Just For Fun: Music Production, Weightlifting, Gaming.
 - 🎩 PSF, ACM, MAA member.  Phi Kappa Phi, Phi Eta Sigma, Upsilon Pi Epsilon, Pi Mu Epsilon.
 
 ***Check Pinned Repos for my best work!***
