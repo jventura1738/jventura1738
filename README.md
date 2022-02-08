@@ -7,7 +7,7 @@ CMD Seminar Spring 2022 link: https://sucmd.vercel.app/
 ### Experience:
 - **Amazon SDE Intern Summer 2022.**
 - **Carnegie Mellon University Researcher (Machine Learning in Production).**
-- **Founder of the CMD Seminar (Computer Science, Mathematics, Data Science).
+- **Founder of the CMD Seminar (Computer Science, Mathematics, Data Science).**
 - HackMIT 2021 24 Hour Hackathon at MIT.
 - Internship Portal Web Application.
 - GullCode 2021 (Coding Competition) Winning Team & Individual Winner.
