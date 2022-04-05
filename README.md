@@ -21,4 +21,4 @@ CMD Seminar Spring 2022 link: https://sucmd.vercel.app/
 - 🤩 Just For Fun: Music Production, Weightlifting, Gaming.
 - 🎩 PSF, ACM, MAA member.  Phi Kappa Phi, Phi Eta Sigma, Upsilon Pi Epsilon, Pi Mu Epsilon.
 
-### *Check Pinned Repos for my best work.*
+*Check Pinned Repos for my best work.*
