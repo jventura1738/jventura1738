@@ -6,7 +6,7 @@ CMD Seminar Spring 2022 link: https://sucmd.vercel.app/
 
 ### Experience:
 - **Amazon SDE Intern Summer 2022.**
-- **University of Maryland, College Park Bitcamp 2022 Quantum Track Winner**
+- **University of Maryland, College Park Bitcamp 2022 Quantum Track Winner.**
 - **Carnegie Mellon University REUSE 2021 (Machine Learning in Production).**
 - Founder of the CMD Seminar (Computer Science, Mathematics, Data Science).
 - HackMIT 2021 24 Hour Hackathon at MIT.
