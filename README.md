@@ -2,8 +2,6 @@
 
 Click for web office: https://jventura1738-weboffice.vercel.app/
 
-CMD Seminar Spring 2022 link: https://sucmd.vercel.app/
-
 ### Experience:
 - **Amazon SDE Intern Summer 2022.**
 - **University of Maryland, College Park Bitcamp 2022 Quantum Track Winner.**
