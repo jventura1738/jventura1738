@@ -15,7 +15,7 @@ Click for web office: https://jventura1738-weboffice.vercel.app/
 - `Python`: flask, django, supervised machine learning, genetic algorithms, task automation.
 - `Database`: postgresql, sqlalchemy, mysql, relational databases.
 - `Web`: html/css, javascript, react, node, express.
-- `Others`: c++, java, php, bash/zsh, jupyter, data vis, IBM Quantum computing.
+- `Others`: c++, java, php, bash/zsh, jupyter, data vis, ibm quantum.
 
 ### School
 
