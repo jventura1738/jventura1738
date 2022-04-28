@@ -2,7 +2,7 @@
 
 Click for web office: https://jventura1738-weboffice.vercel.app/
 
-### 💻 Experience 💻:
+### 💻 Experience:
 - **Amazon SDE Intern Summer 2022.** [Summer 2022]
 - **University of Maryland, College Park Bitcamp 2022 Quantum Track Winner.** [Apr 2022]
 - **Carnegie Mellon University REUSE 2021 (Machine Learning in Production).** [Summer 2021]
@@ -11,13 +11,13 @@ Click for web office: https://jventura1738-weboffice.vercel.app/
 - Internship Portal Web Application. [Current]
 - GullCode 2021 (Coding Competition) Winning Team & Individual Winner. [April 2021]
 
-### 🛠 Skills 🛠:
+### 🛠 Skills:
 - `Python`: flask, django, supervised machine learning, genetic algorithms, task automation.
 - `Database`: postgresql, sqlalchemy, mysql, relational databases.
 - `Web`: html/css, javascript, react, node, express.
 - `Others`: c++, java, php, bash/zsh, jupyter, data vis, ibm quantum.
 
-### 📚 School 📚
+### 📚 School:
 
 - 💻 Majors: Computer Science, Computational Mathematics, Data Science (minor).
 - 🧠 GPA: 3.9, Honors, Dean's List, Henson Student Leadership Advisory Council.
