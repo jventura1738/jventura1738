@@ -3,7 +3,7 @@
 Click for web office: https://jventura1738-weboffice.vercel.app/
 
 ### 💻 Experience Timeline:
-- Fall 2022: Interviewing for companies.
+- Fall 2022: Interviewing for Fall Internships.
 - Summer 2022: SDE Intern @ Amazon, Seattle WA.
 - Apr 2022: Quantum Track Winner, Bitcamp 2022 @ University of Maryland, College Park MD.
 - Sept 2021: HackMIT 2021 Hackathon @ Massachusetts Institute of Technology, Cambridge MA.
