@@ -2,14 +2,17 @@
 
 Click for web office: https://jventura1738-weboffice.vercel.app/
 
-### 💻 Experience:
-- **Amazon SDE Intern Summer 2022.** [Summer 2022]
-- **University of Maryland, College Park Bitcamp 2022 Quantum Track Winner.** [Apr 2022]
-- **Carnegie Mellon University REUSE 2021 (Machine Learning in Production).** [Summer 2021]
-- Founder of the CMD Seminar (Computer Science, Mathematics, Data Science). [Current]
-- HackMIT 2021 24 Hour Hackathon at MIT. [September 2021]
-- Internship Portal Web Application. [Current]
-- GullCode 2021 (Coding Competition) Winning Team & Individual Winner. [April 2021]
+### 💻 Experience Timeline:
+- Fall 2022: Interviewing for companies.
+- Summer 2022: SDE Intern @ Amazon, Seattle WA.
+- Apr 2022: Quantum Track Winner, Bitcamp 2022 @ University of Maryland, College Park MD.
+- Sept 2021: HackMIT 2021 Hackathon @ Massachusetts Institute of Technology, Cambridge MA.
+- Aug 2021-May 2022: Software Engineer, Student Internship Web Portal Application.
+- Aug 2021: Founded SUCMD Seminar. (Computer Science, Mathematics, Data Science)
+- Summer 2021: REU Software Engineering Intern @ Carnegie Mellon University, Pittsburgh PA.
+- Apr 2021: GullCode 2021 Coding Competition Team & Individual Winner.
+- Fall 2019-Spring 2020: Undergraduate Research in Machine Learning.
+- Fall 2018: Began Programming Journey.
 
 ### 🛠 Skills:
 - `Python`: flask, django, supervised machine learning, genetic algorithms, task automation.
