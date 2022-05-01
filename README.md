@@ -24,7 +24,7 @@ Click for web office: https://jventura1738-weboffice.vercel.app/
 
 - 💻 Majors: Computer Science, Computational Mathematics, Data Science (minor).
 - 🧠 GPA: 3.9, Honors, Dean's List, Henson Student Leadership Advisory Council.
-- 👨🏻‍💻 Jobs: Supplemental Instruction, Tutoring, Lab Assistant.
+- 👨🏻‍💻 Jobs: TA (Supplemental Instruction), Tutoring, Lab Assistant.
 - 🎓 Expected Graduation: Fall, 2022.
 - 🤩 Just For Fun: Music Production, Weightlifting, Gaming.
 - 🎩 PSF, ACM, MAA member.  Phi Kappa Phi, Phi Eta Sigma, Upsilon Pi Epsilon, Pi Mu Epsilon.
