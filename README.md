@@ -1,6 +1,6 @@
 # Justin Ventura (He/Him) SDE Intern @ Amazon
 
-Click for web office: https://jventura1738-weboffice.vercel.app/
+[interviewing for full time positions]
 
 ### 💻 Experience Timeline:
 - Fall 2022: Awaiting fall internship decisions.
