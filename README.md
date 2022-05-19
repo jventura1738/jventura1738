@@ -3,16 +3,16 @@
 [interviewing for full time positions]
 
 ### 💻 Experience Timeline:
-- Fall 2022: SDE Intern @ AWS, Arlington VA.
-- Summer 2022: SDE Intern @ Amazon, Seattle WA.
-- Apr 2022: Quantum Track Winner, Bitcamp 2022 @ University of Maryland, College Park MD.
-- Sept 2021: HackMIT 2021 Hackathon @ Massachusetts Institute of Technology, Cambridge MA.
-- Aug 2021-May 2022: Software Engineer, Student Internship Web Portal Application.
-- Aug 2021: Founded SUCMD Seminar. (Computer Science, Mathematics, Data Science)
-- Summer 2021: REU Software Engineering Intern @ Carnegie Mellon University, Pittsburgh PA.
-- Apr 2021: GullCode 2021 Coding Competition Team & Individual Winner.
-- Fall 2019-Spring 2020: Undergraduate Research in Machine Learning.
-- Fall 2018: Began Programming Journey.
+- `Fall 2022`: SDE Intern @ AWS, Arlington VA.
+- `Summer 2022`: SDE Intern @ Amazon, Seattle WA.
+- `Apr 2022`: Quantum Track Winner, Bitcamp 2022 @ University of Maryland, College Park MD.
+- `Sept 2021`: HackMIT 2021 Hackathon @ Massachusetts Institute of Technology, Cambridge MA.
+- `Aug 2021-May 2022`: Software Engineer, Student Internship Web Portal Application.
+- `Aug 2021`: Founded SUCMD Seminar. (Computer Science, Mathematics, Data Science)
+- `Summer 2021`: REU Software Engineering Intern @ Carnegie Mellon University, Pittsburgh PA.
+- `Apr 2021`: GullCode 2021 Coding Competition Team & Individual Winner.
+- `Fall 2019-Spring 2020`: Undergraduate Research in Machine Learning.
+- `Fall 2018`: Began Programming Journey.
 
 ### 🛠 Skills:
 - `Python`: flask, django, supervised machine learning, genetic algorithms, task automation.
