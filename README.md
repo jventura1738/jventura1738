@@ -1,4 +1,4 @@
-# Justin Ventura (He/Him) SDE Intern @ Amazon
+# Justin Ventura (He/Him) SDE Intern @ Amazon (S/F)
 
 [interviewing for full time positions]
 
