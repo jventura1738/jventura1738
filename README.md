@@ -1,7 +1,5 @@
 # Justin Ventura (He/Him) SDE Intern @ Amazon (S/F)
 
-## Going to be using internal tools all summer.
-
 ### 💻 Experience Timeline:
 - `Fall 2022`: SDE Intern @ AWS, Arlington VA.
 - `Summer 2022`: SDE Intern @ Amazon, Seattle WA. (Machine Learning Lifecycle Pipeline)
