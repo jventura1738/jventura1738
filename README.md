@@ -2,7 +2,7 @@
 
 ### 💻 Experience Timeline:
 - `Fall 2022`: SDE Intern @ AWS, Arlington VA.
-- `Summer 2022`: SDE Intern @ Amazon, Seattle WA. (Machine Learning Lifecycle Pipeline)
+- `Summer 2022`: SDE Intern @ Amazon, Seattle WA.
 - `Apr 2022`: Quantum Track Winner, Bitcamp 2022 @ University of Maryland, College Park MD.
 - `Sept 2021`: HackMIT 2021 Hackathon @ Massachusetts Institute of Technology, Cambridge MA.
 - `Aug 2021-May 2022`: Software Engineer, Student Internship Web Portal Application.
