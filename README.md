@@ -15,6 +15,7 @@
 - `Fall 2018`: Began Programming Journey.
 
 ### 🛠 Skills:
+- `AWS`: CDK, S3, Lambda, ECR, ECS, SageMaker, EventBridge, Step, Glue, and more.
 - `Python`: flask, django, supervised machine learning, genetic algorithms, task automation.
 - `Database`: postgresql, sqlalchemy, mysql, relational databases.
 - `Web`: html/css, javascript, react, node, express.
