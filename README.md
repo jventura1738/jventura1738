@@ -1,7 +1,7 @@
 # Justin Ventura (He/Him) SDE Intern @ Amazon (S/F)
 
 ### 💻 Experience Timeline:
-- `Graduation`: 🫣
+- `Graduation`: 😅
 - `Fall 2022`: SDE Intern, Regional Services @ AWS, Arlington VA.
 - `Summer 2022`: SDE Intern, Machine Learning @ Amazon, Seattle WA.
 - `Apr 2022`: Quantum Track Winner, Bitcamp 2022 @ University of Maryland, College Park MD.
