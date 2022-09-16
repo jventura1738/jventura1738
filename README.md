@@ -1,4 +1,4 @@
-# Justin Ventura (He/Him) SDE Intern @ Amazon (S/F)
+# Justin Ventura (He/Him) SDE Intern @ AWS
 
 ### 💻 Experience Timeline:
 - `Graduation`: 😅
@@ -14,10 +14,10 @@
 - `Fall 2018`: Began Programming Journey.
 
 ### 🛠 Skills:
-- `AWS`: CDK, S3, Lambda, ECR, ECS, SageMaker, EventBridge, Step, Glue, and more.
+- `AWS`: CDK, S3, Lambda, ECR, SageMaker, EventBridge, SNS, RDS/Aurora, API Gateway, DynamoDB.
 - `Python`: flask, django, supervised machine learning, genetic algorithms, task automation.
 - `Database`: postgresql, sqlalchemy, mysql, relational databases.
-- `Web`: html/css, javascript, react, node, express.
+- `Web`: html/css, typescript/javascript, react, node, express.
 - `Others`: c++/c, java, php, bash/zsh, jupyter, data vis, ibm quantum.
 
 ### 📚 School:
