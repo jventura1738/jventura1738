@@ -3,7 +3,7 @@
 ### 💻 Experience Timeline:
 - `Oct 2022`: HackHarvard 2022 @ Harvard University, Cambridge MA.
 - `Fall 2022`: SDE Intern, Regional Services @ AWS, Arlington VA.
-- `Summer 2022`: SDE Intern, Machine Learning @ Amazon, Seattle WA.
+- `Summer 2022`: SDE Intern, Payments Machine Learning @ Amazon, Seattle WA.
 - `Apr 2022`: Quantum Track Winner, Bitcamp 2022 @ University of Maryland, College Park MD.
 - `Sept 2021`: HackMIT 2021 Hackathon @ Massachusetts Institute of Technology, Cambridge MA.
 - `Aug 2021-May 2022`: Software Engineer, Student Internship Web Portal Application.
