@@ -1,6 +1,7 @@
 # Justin Ventura (He/Him) SDE Intern @ AWS
 
 ### 💻 Experience Timeline:
+- `Now`: Balling (crippling minecraft addiction)
 - `Oct 2022`: HackHarvard 2022 @ Harvard University, Cambridge MA.
 - `Fall 2022`: SDE Intern, Regional Services @ AWS, Arlington VA.
 - `Summer 2022`: SDE Intern, Payments Machine Learning @ Amazon, Seattle WA.
